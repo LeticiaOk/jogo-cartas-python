@@ -181,14 +181,16 @@ while True:
         
     player.clear()
     bot.clear()
+    indi_deck.clear()
     hide = "on"
+    aposta = 2
 
     if move == 14:
         print('\033[32mPARABÉNS VOCÊ VENCEU!\033[m')
         break
     
-    if move == 0:
+    elif move == 0:
         print("\033[31mVOCÊ PERDEU!\033[m")
         break
 
-print("\n\033[30mFIM DE JOGO\033[30m")
+print("\n\033[30mFIM DE JOGO\033[m")
