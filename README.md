@@ -15,4 +15,11 @@ O jogo de cartas "21", também conhecido como "Blackjack", é um jogo popular no
 * Cada vez que alguém perder a rodada a caveira irá andar o número da aposta para a direita (caso o bot perca) ou para a esquerdar (caso o jogador perca).
 * O jogo acaba quando a caveira chega no jogador ou no bot.
 
-![placar](src/placar.png)
+![placar](src/placar.PNG)
+
+* Em seguida são apresentados os baralhos do jogador e do bot, também apresentando a soma total dos baralhos de cada um.
+* Como regra do jogo uma das cartas do bot ficará oculta e não é somada as outras cartas, sendo revelada apenas no fim da rodada.
+
+* O jogador inicia o jogo tendo que escolher se deseja comprar uma nova carta ou permanecer com o baralho atual.
+* Abaixo aparecerá a mensagem dizendo se uma carta foi adicionada ou se o jogador permaneceu com o baralho atual
+* O mesmo vale para a vez do bot
