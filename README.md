@@ -44,4 +44,4 @@ O jogo de cartas "21", também conhecido como "Blackjack", é um jogo popular no
 
 * As rodadas continuam até que a caveira alcance um dos dois revelando o vencedor final da partida.
 
-![fim](src/final.PNG)
+![final](src/final.PNG)
