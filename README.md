@@ -3,7 +3,8 @@
 O jogo de cartas "21", também conhecido como "Blackjack", é um jogo popular nos cassinos. O objetivo principal é ter uma mão com um valor total mais próximo de 21 do que a mão do dealer, sem ultrapassar esse número. 
 
 ## `Execução:`
-1. Voce pode usar o git para clonar o repostitório ou copiar e colar o arquivo 'codigo.py'
+1. Voce pode usar o git para clonar o repostitório ([GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+) ou copiar e colar o arquivo 'codigo.py'
 2. É necessário ter acesso a um software onde se possa rodar o arquivo 'codigo.py', como um IDE ou pelo próprio terminal do computador.
 3. Baixe e instale a versão mais recente do Python no site oficial.
 4. Se estive no VS Code é necessário Instalar a Extensão Python.
