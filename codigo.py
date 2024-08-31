@@ -189,7 +189,7 @@ while True:
     show_deck(bot, "bot")
 
     # Revelando o vencedor da rodada
-    if (sum(player) == 21 and sum(player) < sum(bot)) or (sum(player) < 21 and sum(player) > sum(bot)) or (sum(player) < 21 and sum(bot) > 21) or (sum(player) > 21 and sum(bot) > 21 and sum(player) < sum(bot)): 
+    if (sum(player) == 21 and sum(player) < sum(bot)) or (sum(player) < 21 and sum(player) > sum(bot)) or (sum(player) < 21 and sum(bot) > 21) or (sum(player) > 21 and sum(bot) > 21 and sum(player) < sum(bot)) or (sum(player) == 21 and sum(bot) < 21): 
         print("\n\033[32mVocê venceu esta rodada.\033[m")
         result = "player"
         
